@@ -1,0 +1,7 @@
+data preproceesing contain 
+
+1)fetching of data from the csv file 
+2)find missing data in csv using mean 
+3)categorical of data
+4)spliting of data into training data and test data
+5)scalling of data
